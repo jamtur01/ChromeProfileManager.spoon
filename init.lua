@@ -17,7 +17,7 @@ obj.__index = obj
 
 -- Metadata
 obj.name = "ChromeProfileManager"
-obj.version = "1.1"
+obj.version = "1.2"
 obj.author = "James Turnbull <james@lovedthanlost.net>"
 obj.homepage = "https://github.com/jamtur01/ChromeProfileManager.spoon"
 obj.license = "MIT - https://opensource.org/licenses/MIT"
